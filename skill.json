@@ -1,0 +1,20 @@
+{
+  "name": "genpark-consistent-hashing-vnodes-replication-skill",
+  "version": "1.0.0",
+  "description": "Consistent hashing ring with virtual nodes (vnodes) and configurable replica distribution",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "consistent-hashing",
+    "distributed-systems",
+    "vnodes",
+    "data-partitioning",
+    "replication",
+    "python-standard-library",
+    "agent-skills",
+    "distributed-storage",
+    "load-balancing",
+    "chord-dht"
+  ]
+}
