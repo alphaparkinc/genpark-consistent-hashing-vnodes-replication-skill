@@ -1,0 +1,6 @@
+name: genpark-consistent-hashing-vnodes-replication-skill
+version: 1.0.0
+description: Consistent hashing ring with virtual nodes (vnodes) and configurable replica distribution
+command: python
+args:
+  - mcp_server.py
